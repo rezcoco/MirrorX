@@ -12,6 +12,9 @@
 3. If Mega Download Is Running, Don't Put Torrents Or Direct Link Mirror With It , Crashes Sometime.
 4. We Recommand One Download At Time , If You Have Multicore Instance Or Vps You Can Try Multiple Download At A Time.
 
+#Deploy 
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 # [A Guide On How To Customise Bot Further for Personal Use.](https://github.com/iamLiquidX/MirrorX/blob/master/modificaton.md#a-guide-on-how-to-customise-bot-further-for-personal-use)
 ### Added A Small Guide Which Has The Following :-
 1. [Customising Bot /start Message](https://github.com/iamLiquidX/MirrorX/blob/master/modificaton.md#Customising-Bot-start-Message)
