@@ -63,7 +63,7 @@
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
         "required": true
       },
-	  "MEGA_API_KEY": {
+	"MEGA_API_KEY": {
         "description": "Mega.nz api key to mirror mega.nz links. Get it from [Here](https://mega.nz/sdk).",
         "required": true
       },
@@ -73,6 +73,10 @@
       },
       "MEGA_PASSWORD": {
         "description": "    Your password for your mega.nz account.",
+        "required": false
+      },
+    	"STOP_DUPLICATE_MIRROR": {
+        "description": "If this field is set to True, bot will check file in drive, if it is present in drive, downloading will be stopped.",
         "required": false
       },
 	  "AUTH_CHATS": {
